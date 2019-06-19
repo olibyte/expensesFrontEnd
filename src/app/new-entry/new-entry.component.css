@@ -1,0 +1,12 @@
+.new-entry-form {
+    /*width:80% */
+    margin: 5% 20%;
+}
+.new-entry-field {
+    width:60%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.new-form-btn {
+    position: relative;
+}
